@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162956745896",
+    "project_id": "clip-it-b9307",
+    "storage_bucket": "clip-it-b9307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162956745896:android:51691b7fe0dbd36a23769d",
+        "android_client_info": {
+          "package_name": "com.baibhav.clip_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXNyHuQgX6f3iCn6lyruBSGPejYnB5aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
